@@ -9,3 +9,9 @@ Przyklad jak stworzyc super wydajna i skalowalna infrastrukture opierajaca sie n
 
 ### Chmura dla developera
 Wprowadzenie do tematu chmury dla developera, co powinienes wiedziec z czym to sie je oraz najnowsze trendy i rozwiazania
+
+
+## Szkolenia
+
+### Microservisy w chmurze oraz automatyzacja
+Kiedy zaczynamy przepisywac nasz aplikacje z monolitu na microservisy, jednoczesnie potrzebujemy rozrostu naszej infrastruktury, oraz automatyzacji pewnych prcoesow. Kiedy natomiast nie mozemy sobie pozwolic na fizyczny rozrost infrastrktury odpowiedzia jest chmura ktora udostepnia nieogarniczone zasoby. 
