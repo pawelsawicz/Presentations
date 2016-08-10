@@ -1,0 +1,11 @@
+## Tematy prezentacji :
+
+### Tworzenie skalowalnej infrastruktury w chmurze.
+Prezentacja o tworzeniu infrastruktury w chmurze dla developerow. Wprowadzenie do pojecia infrastructure as a code,
+do narzedzi opsowych takich jak `ansible`, `terraform`, `packer`
+
+### Tworzenie wydajnej infrastruktury w chmurze
+Przyklad jak stworzyc super wydajna i skalowalna infrastrukture opierajaca sie na `NancyFx`, `Consul`, `Fabio`
+
+### Chmura dla developera
+Wprowadzenie do tematu chmury dla developera, co powinienes wiedziec z czym to sie je oraz najnowsze trendy i rozwiazania
